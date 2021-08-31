@@ -33,3 +33,7 @@ set noerrorbells
 set tabstop=4 softtabstop=4
 set expandtab
 set smartindent
+set noswapfile
+set incsearch
+set ignorecase
+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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
