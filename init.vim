@@ -15,6 +15,10 @@ map <silent> <C-n> :NERDTreeFocus <CR>
 
 nnoremap <silent> K :call <SID>show_documentation()<CR>
 nmap <leader>a  <Plug>(coc-codeaction-selected)
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
 
 filetype plugin indent on	" required
 syntax on
