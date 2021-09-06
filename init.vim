@@ -8,6 +8,7 @@ Plug 'preservim/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'vim-airline/vim-airline'
+Plug 'mattn/emmet-vim'
 call plug#end()
 
 colorscheme onehalfdark
