@@ -37,3 +37,5 @@ set smartindent
 set noswapfile
 set incsearch
 set ignorecase
+
+let g:user_emmet_leader_key=','
